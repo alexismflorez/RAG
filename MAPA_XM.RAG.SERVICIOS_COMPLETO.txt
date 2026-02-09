@@ -1,0 +1,683 @@
+﻿ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Adjunto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Administracion\ParametrosDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Administracion\RolesDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Agente.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Alarma.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Aplicacion.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\AplicacionesPorContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\AplicacionRol.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\AplicacionTipoActividad.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\App.Config
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Bitacora.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Cargo.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\CausalRechazo.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\ConceptoTributario.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\ControlTareas.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Cuenta.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Departamento.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\DocRetiroDeuda.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\DocTipoSolicitudActividad.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\DocTipoSolicitudCausales.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\DocTipoSolicitudContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\DocTipoSolicitudRol.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Documento.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\DocumentosObjecion.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\DocumentoSolicitud.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\DocumentoTipoSolicitud.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Empresa.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\EmpresaInfoTributaria.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\EncargoFiduciario.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Estado.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\EstadoAgente.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\EstadoTipoSolicitud.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Fiducia.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\FusionEmpresa.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\General\GeneralDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\General\LineaTiempoDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Helper\ColumnaSICEP.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Helper\ComparerInfoAdicionaFronteras.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Helper\ComparerInfoAdicionalJuntaDirectiva.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Helper\ComparerInfoContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Helper\ConceptoEmpresa.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Helper\InfoAgenteContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Helper\SICEPPendienteSolicitud.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\InfoAdicionalFronteras.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\InfoAdicionalJuntaDirectiva.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\InfoContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\InfoContactoNegocio.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\LineaTiempo.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\MatrizActividades.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\MatrizEstados.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Municipio.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Negocio.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\NegocioTipoActividad.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\ObjecionesSolicitud.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Pagina.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Pais.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Parametro.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\ParametroValor.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Periodo.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\PermisosRoles.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Preinscripcion.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Properties\AssemblyInfo.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\PruebasAplicaciones.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RAG.Designer.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RAG.edmx
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RAG.edmx.sql
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RAGModel.Context.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RAGModel.Context.Extensions.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RAGModel.Context.tt
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RAGModel.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RAGModel.tt
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RegFro\InfoAgenteContactoDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\RevisionDocumentos.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Rol.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Seccion.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\SeccionPagina.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\SituacionControlAgentes.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitud.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\SolicitudAplicacionContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\AgentesDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\AlarmaDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\AplicacionDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\AplicacionRolDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\AplicacionRolDependienteDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\AplicacionTipoActividadDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\BitacoraDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\CausalRechazoDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\ConceptoTributarioDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\ContactosDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\CuentaDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\DocRetiroDeudaDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\DocumentosDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\DocumentosObjecionDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\DocumentoTipoSolicitudDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\EmpresaDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\EmpresaInfoTributariaDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\EncargoFiduciarioDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\EstadoTipoSolicitudDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\FiduciaDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\FusionEmpresaDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\InactivarTipoContactoDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\InfoAdicionalFronterasDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\InfoAdicionalJuntaDirectivaDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\MatrizActividadesDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\MatrizEstadosDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\NegocioDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\ObjecionesSolicitudDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\ParametrosDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\PeriodoDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\PruebasAplicacionesDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\RevisionDocumentosDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\SituacionControlAgentesDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\SolicitudesDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\TipoActividadDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\TipoContactoDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\TipoSolicitudCausalRechazoDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\TipoSolicitudDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Solicitudes\ValidacionesSolicitudDAO.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\SolicitudTipoInfoContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\spInfoActividadesSolicitudContacto_Result.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\spInfoAgenteSolicitud_Result.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\spInformacionBasicaContacto_Result.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\spInfoSolicitudAplicaciones_Result.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\spInfoSolicitudRetiroAgente_Result.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\spInfoSolicitudTipoContacto_Result.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\spNotificacionSolicitudes_Result.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\TipoActividad.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\TipoContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\TipoContactoAplicacionRol.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\TipoDocumento.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\TipoEmpresa.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\TipoInfoContacto.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\TipoSolicitud.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\TipoSolicitudCausalRechazo.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\Trato.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\vAgentesRetirados.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\ValidacionesSolicitud.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\vMatrizEstados.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\vPermisosRoles.cs
+ARCHIVO | AccesoDatos\XM.RAG.DataAccess\XM.RAG.DataAccess.csproj
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\App.config
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\General\General.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\General\TextComparer.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Integracion\ConsultaIntegracion.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Integracion\TransaccionIntegracion.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\L2MID\L2MID.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\L2MID\L2MPartial.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Properties\AssemblyInfo.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Properties\DataSources\System.Data.DataSet.datasource
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Bitacora1.disco
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Bitacora1.wsdl
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Bitacora6.xsd
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Bitacora61.xsd
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Bitacora62.xsd
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Bitacora63.xsd
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Bitacora64.xsd
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Bitacora65.xsd
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\configuration.svcinfo
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\configuration91.svcinfo
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Reference.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid\Reference.svcmap
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\Sucesos\Sucesos.cs
+ARCHIVO | AccesoDatos\XM.RAG.LinQ2Mid\XM.RAG.LinQ2Mid.csproj
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\ACT_PERIODO.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\App.Config
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\Consultas\Consulta.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\FBOT_TIPOAGENS.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\FBOT_TIPODOCUS.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_AGENTES.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_AGNINFORMACION.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_AGNPERSONA.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_CARGOSPROF.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_CONTACTOPERSONA.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_EMPRESAS.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_NEGOCIOS.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_PAISES.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_PERSONAS.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_TIPOCOMPANIA.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_TIPOCONTACTO.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_TITULOSPROF.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\LAT_TRATOSPROF.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\PDN.Designer.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\PDN.edmx
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\PDNModel.Context.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\PDNModel.Context.Extensions.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\PDNModel.Context.tt
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\PDNModel.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\PDNModel.tt
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\Properties\AssemblyInfo.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\SMT_CONCEPTOBASICO.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\Transacciones\Transacciones.cs
+ARCHIVO | AccesoDatos\XM.RAG.Oracle\XM.RAG.Oracle.csproj
+ARCHIVO | Instalador\XM.RAG.InstaladorServicios\XM.RAG.InstaladorServicios.vdproj
+ARCHIVO | Negocio\XM.RAG.Actividades\XM.RAG.Actividades.csproj
+ARCHIVO | Negocio\XM.RAG.Administracion\Broker\BrokerAdministracion.cs
+ARCHIVO | Negocio\XM.RAG.Administracion\Controladora\ControladoraAdministracion.cs
+ARCHIVO | Negocio\XM.RAG.Administracion\Fachada\FachadaAdministracion.cs
+ARCHIVO | Negocio\XM.RAG.Administracion\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.Administracion\XM.RAG.Administracion.csproj
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\app.config
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\IServicioConsultasMID.cs
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\Properties\DataSources\System.Data.DataSet.datasource
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\Service References\ConsultasMID\configuration.svcinfo
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\Service References\ConsultasMID\configuration91.svcinfo
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\Service References\ConsultasMID\Reference.cs
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\Service References\ConsultasMID\Reference.svcmap
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\Service References\ConsultasMID\wsconsulta.disco
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\Service References\ConsultasMID\wsconsulta.wsdl
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\ServicioConsultasMID.cs
+ARCHIVO | Negocio\XM.RAG.ConsultasMID\XM.RAG.ConsultasMID.csproj
+ARCHIVO | Negocio\XM.RAG.Entidades\Administracion\Parametro.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Administracion\ParametroValor.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Administracion\PermisosSeccion.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Administracion\Rol.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Enumeraciones\ParametrosEnum.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\AccesoDatosColumn.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\AccionRol.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Banco.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\BancoACME.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Bitacora.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\ConceptoBasico.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\ConsultaMID.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\ControlTareas.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\CorreoAlarma.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Departamento.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\DetalleEvento.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Grid.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\LineaTiempo.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Localizacion.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\LogGestorArchivos.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Municipio.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Notificacion.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\NotificacionesDocumentos.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\OpcionMenu.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Pais.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\Periodo.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\ResultadoGestor.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\RolGrid.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\General\RolMenu.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\key.snk
+ARCHIVO | Negocio\XM.RAG.Entidades\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\RegFro\InfoAgenteContacto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\RegistroSucesos\DocumentoSuceso.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\RegistroSucesos\Suceso.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Reportes\Columna.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Reportes\ColumnaSICEP.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Reportes\Filtro.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Reportes\Reporte.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Reportes\Seccion.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Adjunto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Agente.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\AgenteParametro.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Alarma.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Aplicacion.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\AplicacionesPorContacto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\AplicacionRol.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\AplicacionRolDependiente.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\AplicacionTipoActividad.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Cargo.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\CausalRechazo.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\ConceptoEmpresa.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\ConceptoTributario.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Cuenta.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocRetiroDeuda.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocTipoSolicitudActividad.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocTipoSolicitudCausales.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocTipoSolicitudContacto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocTipoSolicitudRol.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Documento.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocumentoPlantilla.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocumentosObjecion.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocumentoSolicitud.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\DocumentoTipoSolicitud.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Empresa.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\EmpresaInfoTributaria.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\EncargoFiduciario.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Estado.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\EstadoAgente.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\EstadoTipoSolicitud.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Fiducia.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\FusionEmpresa.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\InfoAdicionalFronteras.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\InfoAdicionalJuntaDirectiva.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\InfoContacto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\InfoContactoNegocio.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\MatrizActividades.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\MatrizEstados.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\MatrizTransicionEstados.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Negocio.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\NegocioTipoActividad.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\ObjecionesSolicitud.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Preinscripcion.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\PruebasAplicaciones.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\RevisionDocumentos.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\SituacionControlAgentes.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Solicitud.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\SolicitudAplicacionContacto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\SolicitudTipoInfoContacto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\TipoActividad.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\TipoContacto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\TipoContactoAplicacionRol.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\TipoDocumento.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\TipoEmpresa.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\TipoInfoContacto.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\TipoSolicitud.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\TipoSolicitudCausalRechazo.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Transaccion.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\Trato.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\Solicitudes\ValidacionesSolicitud.cs
+ARCHIVO | Negocio\XM.RAG.Entidades\XM.RAG.Entidades.csproj
+ARCHIVO | Negocio\XM.RAG.Entidades\XM.RAG.Entidades.sln
+ARCHIVO | Negocio\XM.RAG.EntidadesMID\Compania.cs
+ARCHIVO | Negocio\XM.RAG.EntidadesMID\Contacto.cs
+ARCHIVO | Negocio\XM.RAG.EntidadesMID\InformacionContacto.cs
+ARCHIVO | Negocio\XM.RAG.EntidadesMID\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.EntidadesMID\UnidadNegocio.cs
+ARCHIVO | Negocio\XM.RAG.EntidadesMID\XM.RAG.EntidadesMID.csproj
+ARCHIVO | Negocio\XM.RAG.General\Broker\BrokerGeneral.cs
+ARCHIVO | Negocio\XM.RAG.General\Controladora\ControladoraGeneral.cs
+ARCHIVO | Negocio\XM.RAG.General\Fachada\FachadaGeneral.cs
+ARCHIVO | Negocio\XM.RAG.General\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.General\XM.RAG.General.csproj
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\Broker\BrokerConsulta.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\Broker\BrokerTransaccion.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\Controladora\ControladoraConsulta.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\Controladora\ControladoraTransaccion.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\Fachada\FachadaConsulta.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\Fachada\FachadaTransaccion.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\Transformaciones\TransformacionMID.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionMID\XM.RAG.IntegracionMID.csproj
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\Broker\BrokerConsulta.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\Broker\BrokerTransaccion.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\Controladora\ControladoraConsulta.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\Controladora\ControladoraTransaccion.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\Fachada\FachadaConsulta.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\Fachada\FachadaTransaccion.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\Trasformaciones\TransformacionPDN.cs
+ARCHIVO | Negocio\XM.RAG.IntegracionPDN\XM.RAG.IntegracionPDN.csproj
+ARCHIVO | Negocio\XM.RAG.RealizacionSolicitudes\Broker\BrokerRealizacionSolicitudes.cs
+ARCHIVO | Negocio\XM.RAG.RealizacionSolicitudes\Controladora\ControladoraRealizacionSolicitudes.cs
+ARCHIVO | Negocio\XM.RAG.RealizacionSolicitudes\Fachada\FachadaRealizacionSolicitudes.cs
+ARCHIVO | Negocio\XM.RAG.RealizacionSolicitudes\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.RealizacionSolicitudes\XM.RAG.RealizacionSolicitudes.csproj
+ARCHIVO | Negocio\XM.RAG.RegFro\Broker\BrokerInfoAgenteContacto.cs
+ARCHIVO | Negocio\XM.RAG.RegFro\Controladora\ControladoraInfoAgenteContacto.cs
+ARCHIVO | Negocio\XM.RAG.RegFro\Fachada\FachadaInfoAgenteContacto.cs
+ARCHIVO | Negocio\XM.RAG.RegFro\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.RegFro\XM.RAG.RegFro.csproj
+ARCHIVO | Negocio\XM.RAG.RegistroSucesos\Broker\BrokerRegistroSucesos.cs
+ARCHIVO | Negocio\XM.RAG.RegistroSucesos\Controladora\ControladoraRegistroSucesos.cs
+ARCHIVO | Negocio\XM.RAG.RegistroSucesos\Fachada\FachadaRegistroSucesos.cs
+ARCHIVO | Negocio\XM.RAG.RegistroSucesos\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.RegistroSucesos\XM.RAG.RegistroSucesos.csproj
+ARCHIVO | Negocio\XM.RAG.Reportes\app.config
+ARCHIVO | Negocio\XM.RAG.Reportes\BDRAGXM.Designer.cs
+ARCHIVO | Negocio\XM.RAG.Reportes\BDRAGXM.xsc
+ARCHIVO | Negocio\XM.RAG.Reportes\BDRAGXM.xsd
+ARCHIVO | Negocio\XM.RAG.Reportes\BDRAGXM.xss
+ARCHIVO | Negocio\XM.RAG.Reportes\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.Reportes\Properties\Settings.Designer.cs
+ARCHIVO | Negocio\XM.RAG.Reportes\Properties\Settings.settings
+ARCHIVO | Negocio\XM.RAG.Reportes\Reportes\CrearReporte.cs
+ARCHIVO | Negocio\XM.RAG.Reportes\Reportes\rptFormatoSIC020.rdlc
+ARCHIVO | Negocio\XM.RAG.Reportes\Web References\srvReportes\DocumentMapNode.datasource
+ARCHIVO | Negocio\XM.RAG.Reportes\Web References\srvReportes\ExecutionInfo.datasource
+ARCHIVO | Negocio\XM.RAG.Reportes\Web References\srvReportes\ExecutionInfo2.datasource
+ARCHIVO | Negocio\XM.RAG.Reportes\Web References\srvReportes\Extension.datasource
+ARCHIVO | Negocio\XM.RAG.Reportes\Web References\srvReportes\Reference.cs
+ARCHIVO | Negocio\XM.RAG.Reportes\Web References\srvReportes\Reference.map
+ARCHIVO | Negocio\XM.RAG.Reportes\Web References\srvReportes\ReportExecution2005.wsdl
+ARCHIVO | Negocio\XM.RAG.Reportes\Web References\srvReportes\Warning.datasource
+ARCHIVO | Negocio\XM.RAG.Reportes\XM.RAG.Reportes.csproj
+ARCHIVO | Negocio\XM.RAG.RevisionSolicitudes\Broker\BrokerRevisionSolicitudes.cs
+ARCHIVO | Negocio\XM.RAG.RevisionSolicitudes\Controladora\ControladoraRevisionSolicitudes.cs
+ARCHIVO | Negocio\XM.RAG.RevisionSolicitudes\Fachada\FachadaRevisionSolicitudes.cs
+ARCHIVO | Negocio\XM.RAG.RevisionSolicitudes\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.RevisionSolicitudes\XM.RAG.RevisionSolicitudes.csproj
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\app.config
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Exportacion\IServicioExportacion.cs
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Exportacion\ServicioExportacion.cs
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Importacion\IServicioImportacion.cs
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Importacion\ServicioImportacion.cs
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Properties\AssemblyInfo.cs
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Properties\DataSources\System.Data.DataSet.datasource
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\CargaService.disco
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\CargaService.wsdl
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\CargaService.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\CargaService1.wsdl
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\CargaService1.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\CargaService2.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\CargaService3.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\CargaService4.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\configuration.svcinfo
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\configuration91.svcinfo
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\Reference.cs
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\Reference.svcmap
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService\XM.NombreAplicacion.GestorArchivos.ServicioCargaService.ConfiguracionCarga.datasource
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\configuration.svcinfo
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\configuration91.svcinfo
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\ExportacionService.disco
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\ExportacionService.wsdl
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\ExportacionService.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\ExportacionService1.wsdl
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\ExportacionService1.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\ExportacionService2.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\ExportacionService3.xsd
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\Reference.cs
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService\Reference.svcmap
+ARCHIVO | Negocio\XM.RAG.XMGestorArchivos\XM.RAG.GestorArchivos.csproj
+ARCHIVO | Referencias\Enterprise Library\EntLibContrib.ExceptionHandling.dll
+ARCHIVO | Referencias\Enterprise Library\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+ARCHIVO | Referencias\Enterprise Library\Microsoft.Practices.EnterpriseLibrary.Common.dll
+ARCHIVO | Referencias\Enterprise Library\Microsoft.Practices.EnterpriseLibrary.Data.dll
+ARCHIVO | Referencias\Enterprise Library\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+ARCHIVO | Referencias\Enterprise Library\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+ARCHIVO | Referencias\Enterprise Library\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+ARCHIVO | Referencias\LinqToMID\LinqExtender.dll
+ARCHIVO | Referencias\LinqToMID\XM.LINQToMID.dll
+ARCHIVO | Referencias\OracleProvider\Oracle.ManagedDataAccess.dll
+ARCHIVO | Referencias\OracleProvider\Oracle.ManagedDataAccessDTC.dll
+ARCHIVO | Referencias\Telerik\Telerik.Reporting.dll
+ARCHIVO | Referencias\Telerik\Telerik.Reporting.Service.dll
+ARCHIVO | Referencias\Telerik\Telerik.Reporting.XpsRendering.dll
+ARCHIVO | Referencias\Util\DocumentFormat.OpenXml.dll
+ARCHIVO | Referencias\Util\DocumentFormat.OpenXml.xml
+ARCHIVO | Referencias\Util\itextsharp.dll
+ARCHIVO | Referencias\Util\itextsharp.xml
+ARCHIVO | Referencias\Util\itextsharp.xmlworker.dll
+ARCHIVO | Referencias\Util\Newtonsoft.Json.dll
+ARCHIVO | Referencias\Util\NReco.PdfGenerator.dll
+ARCHIVO | Referencias\Util\NReco.PdfGenerator.xml
+ARCHIVO | Referencias\Util\OpenXmlPowerTools.dll
+ARCHIVO | Referencias\Util\RestSharp.dll
+ARCHIVO | Referencias\Util\UNISYS.Componentes.PdfTools.dll
+ARCHIVO | Referencias\Worflows\Microsoft.Activities.Extensions.Design.dll
+ARCHIVO | Referencias\Worflows\Microsoft.Activities.Extensions.dll
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\Administracion\IAdministracion.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\General\IGeneral.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\IntegracionMID\IIntegracionMID.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\IntegracionPDN\IIntegracionPDN.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\MaquinaEstados\IMaquinaEstados.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\Properties\AssemblyInfo.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\RealizacionSolicitudes\IRealizacionSolicitudes.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\RegFro\NuevoRegfro.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\RegistroSucesos\IRegistroSucesos.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\RevisionSolicitudes\IRevisionSolicitudes.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\ServiceFault.cs
+ARCHIVO | Servicios\XM.RAG.ContratosServicios\XM.RAG.ContratosServicios.csproj
+ARCHIVO | Servicios\XM.RAG.Servicios\Administracion.svc
+ARCHIVO | Servicios\XM.RAG.Servicios\Administracion.svc.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\ClassDiagram1.cd
+ARCHIVO | Servicios\XM.RAG.Servicios\Configuracion\entlib.config
+ARCHIVO | Servicios\XM.RAG.Servicios\General.svc
+ARCHIVO | Servicios\XM.RAG.Servicios\General.svc.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\IntegracionMID.svc
+ARCHIVO | Servicios\XM.RAG.Servicios\IntegracionMID.svc.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\IntegracionPDN.svc
+ARCHIVO | Servicios\XM.RAG.Servicios\IntegracionPDN.svc.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\LogTecnico\Class1.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\NuevoRegfro.svc
+ARCHIVO | Servicios\XM.RAG.Servicios\NuevoRegfro.svc.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\Properties\AssemblyInfo.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\Properties\DataSources\System.Xml.Linq.XElement.datasource
+ARCHIVO | Servicios\XM.RAG.Servicios\Properties\Settings.Designer.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\Properties\Settings.settings
+ARCHIVO | Servicios\XM.RAG.Servicios\RealizacionSolicitudes.svc
+ARCHIVO | Servicios\XM.RAG.Servicios\RealizacionSolicitudes.svc.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\RegistroSucesos.svc
+ARCHIVO | Servicios\XM.RAG.Servicios\RegistroSucesos.svc.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\RevisionSolicitudes.svc
+ARCHIVO | Servicios\XM.RAG.Servicios\RevisionSolicitudes.svc.cs
+ARCHIVO | Servicios\XM.RAG.Servicios\Settings.StyleCop
+ARCHIVO | Servicios\XM.RAG.Servicios\web- nuew.config
+ARCHIVO | Servicios\XM.RAG.Servicios\web.config
+ARCHIVO | Servicios\XM.RAG.Servicios\web.Debug.config
+ARCHIVO | Servicios\XM.RAG.Servicios\web.Release.config
+ARCHIVO | Servicios\XM.RAG.Servicios\wkhtmltopdf.exe
+ARCHIVO | Servicios\XM.RAG.Servicios\XM.RAG.Servicios.csproj
+ARCHIVO | Settings.StyleCop
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\app.config
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Comunicacion\MensajeCliente.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\ConfiguracionServicios.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Consultas.xml
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\AlarmasEnum.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\ConsultaMID.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\Estado.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\EstadoPrueba.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\EventoBitacora.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\IdentificadoresMID.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\ParametrosBD.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\RolEnum.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Enumeraciones\TipoSolicitudEnum.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Excepciones\NegocioExcepcion.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Excepciones\PoliticaDeExcepcion.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Excepciones\ServicioExcepcion.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Excepciones\SistemaExternoNoDisponibleExcepcion.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Helper\LogTecnico.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\EstadoAgente.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\FiltrosXML.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\ManejoExcepcion.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\MensajeExcepcionMID.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\ResultadoIntegracion.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\TipoActividad.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\TipoContacto.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\TipoExcepcion.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Integracion\Transformacion.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Logging\CategoriaLog.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Logging\GeneradorLog.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Properties\AssemblyInfo.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\RecursosFramework.Designer.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\RecursosFramework.resx
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Utilidades\Comun.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Utilidades\Consultas.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Utilidades\GeneralObjectMapping.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Utilidades\MappingColumn.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\Utilidades\ObjectMapping.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Framework\XM.RAG.Servicios.Framework.csproj
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\CodigoMensaje.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\ItemBatch.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\Mensaje.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\MensajeBatch.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\Mensajes.xml
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\MensajesBase.Designer.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\MensajesBase.resx
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\Properties\AssemblyInfo.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\TipoMensaje.cs
+ARCHIVO | Soporte\XM.RAG.Servicios.Mensajes\XM.RAG.Servicios.Mensajes.csproj
+ARCHIVO | XM.RAG.EntidadesOracle\Agente\DetAgnAtributo.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Agente\LatAgente.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Agente\LatAgnInformacion.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Contacto\LatContactoPersona.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Contacto\LatTipoContacto.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Empresa\LatEmpresa.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Empresa\LatNegocio.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Empresa\LatTipoCompania.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Facturacion\SmtConceptoBasico.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Persona\LatAgnPersona.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Persona\LatPersona.cs
+ARCHIVO | XM.RAG.EntidadesOracle\Properties\AssemblyInfo.cs
+ARCHIVO | XM.RAG.EntidadesOracle\XM.RAG.EntidadesPDN.csproj
+ARCHIVO | XM.RAG.Servicios.sln
+CARPETA | AccesoDatos
+CARPETA | AccesoDatos\XM.RAG.DataAccess
+CARPETA | AccesoDatos\XM.RAG.DataAccess\Administracion
+CARPETA | AccesoDatos\XM.RAG.DataAccess\General
+CARPETA | AccesoDatos\XM.RAG.DataAccess\Helper
+CARPETA | AccesoDatos\XM.RAG.DataAccess\Properties
+CARPETA | AccesoDatos\XM.RAG.DataAccess\RegFro
+CARPETA | AccesoDatos\XM.RAG.DataAccess\Solicitudes
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid\General
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid\Integracion
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid\L2MID
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid\Properties
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid\Properties\DataSources
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid\Service References
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid\Service References\BitacoraMid
+CARPETA | AccesoDatos\XM.RAG.LinQ2Mid\Sucesos
+CARPETA | AccesoDatos\XM.RAG.Oracle
+CARPETA | AccesoDatos\XM.RAG.Oracle\Consultas
+CARPETA | AccesoDatos\XM.RAG.Oracle\Properties
+CARPETA | AccesoDatos\XM.RAG.Oracle\Transacciones
+CARPETA | Instalador
+CARPETA | Instalador\XM.RAG.InstaladorServicios
+CARPETA | Negocio
+CARPETA | Negocio\XM.RAG.Actividades
+CARPETA | Negocio\XM.RAG.Administracion
+CARPETA | Negocio\XM.RAG.Administracion\Broker
+CARPETA | Negocio\XM.RAG.Administracion\Controladora
+CARPETA | Negocio\XM.RAG.Administracion\Fachada
+CARPETA | Negocio\XM.RAG.Administracion\Properties
+CARPETA | Negocio\XM.RAG.ConsultasMID
+CARPETA | Negocio\XM.RAG.ConsultasMID\Properties
+CARPETA | Negocio\XM.RAG.ConsultasMID\Properties\DataSources
+CARPETA | Negocio\XM.RAG.ConsultasMID\Service References
+CARPETA | Negocio\XM.RAG.ConsultasMID\Service References\ConsultasMID
+CARPETA | Negocio\XM.RAG.Entidades
+CARPETA | Negocio\XM.RAG.Entidades\Administracion
+CARPETA | Negocio\XM.RAG.Entidades\Enumeraciones
+CARPETA | Negocio\XM.RAG.Entidades\General
+CARPETA | Negocio\XM.RAG.Entidades\Properties
+CARPETA | Negocio\XM.RAG.Entidades\RegFro
+CARPETA | Negocio\XM.RAG.Entidades\RegistroSucesos
+CARPETA | Negocio\XM.RAG.Entidades\Reportes
+CARPETA | Negocio\XM.RAG.Entidades\Solicitudes
+CARPETA | Negocio\XM.RAG.EntidadesMID
+CARPETA | Negocio\XM.RAG.EntidadesMID\Properties
+CARPETA | Negocio\XM.RAG.General
+CARPETA | Negocio\XM.RAG.General\Broker
+CARPETA | Negocio\XM.RAG.General\Controladora
+CARPETA | Negocio\XM.RAG.General\Fachada
+CARPETA | Negocio\XM.RAG.General\Properties
+CARPETA | Negocio\XM.RAG.IntegracionMID
+CARPETA | Negocio\XM.RAG.IntegracionMID\Broker
+CARPETA | Negocio\XM.RAG.IntegracionMID\Controladora
+CARPETA | Negocio\XM.RAG.IntegracionMID\Fachada
+CARPETA | Negocio\XM.RAG.IntegracionMID\Properties
+CARPETA | Negocio\XM.RAG.IntegracionMID\Transformaciones
+CARPETA | Negocio\XM.RAG.IntegracionPDN
+CARPETA | Negocio\XM.RAG.IntegracionPDN\Broker
+CARPETA | Negocio\XM.RAG.IntegracionPDN\Controladora
+CARPETA | Negocio\XM.RAG.IntegracionPDN\Fachada
+CARPETA | Negocio\XM.RAG.IntegracionPDN\Properties
+CARPETA | Negocio\XM.RAG.IntegracionPDN\Trasformaciones
+CARPETA | Negocio\XM.RAG.RealizacionSolicitudes
+CARPETA | Negocio\XM.RAG.RealizacionSolicitudes\Broker
+CARPETA | Negocio\XM.RAG.RealizacionSolicitudes\Controladora
+CARPETA | Negocio\XM.RAG.RealizacionSolicitudes\Fachada
+CARPETA | Negocio\XM.RAG.RealizacionSolicitudes\Properties
+CARPETA | Negocio\XM.RAG.RegFro
+CARPETA | Negocio\XM.RAG.RegFro\Broker
+CARPETA | Negocio\XM.RAG.RegFro\Controladora
+CARPETA | Negocio\XM.RAG.RegFro\Fachada
+CARPETA | Negocio\XM.RAG.RegFro\Properties
+CARPETA | Negocio\XM.RAG.RegistroSucesos
+CARPETA | Negocio\XM.RAG.RegistroSucesos\Broker
+CARPETA | Negocio\XM.RAG.RegistroSucesos\Controladora
+CARPETA | Negocio\XM.RAG.RegistroSucesos\Fachada
+CARPETA | Negocio\XM.RAG.RegistroSucesos\Properties
+CARPETA | Negocio\XM.RAG.Reportes
+CARPETA | Negocio\XM.RAG.Reportes\Properties
+CARPETA | Negocio\XM.RAG.Reportes\Reportes
+CARPETA | Negocio\XM.RAG.Reportes\Web References
+CARPETA | Negocio\XM.RAG.Reportes\Web References\srvReportes
+CARPETA | Negocio\XM.RAG.RevisionSolicitudes
+CARPETA | Negocio\XM.RAG.RevisionSolicitudes\Broker
+CARPETA | Negocio\XM.RAG.RevisionSolicitudes\Controladora
+CARPETA | Negocio\XM.RAG.RevisionSolicitudes\Fachada
+CARPETA | Negocio\XM.RAG.RevisionSolicitudes\Properties
+CARPETA | Negocio\XM.RAG.XMGestorArchivos
+CARPETA | Negocio\XM.RAG.XMGestorArchivos\Exportacion
+CARPETA | Negocio\XM.RAG.XMGestorArchivos\Importacion
+CARPETA | Negocio\XM.RAG.XMGestorArchivos\Properties
+CARPETA | Negocio\XM.RAG.XMGestorArchivos\Properties\DataSources
+CARPETA | Negocio\XM.RAG.XMGestorArchivos\Service References
+CARPETA | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioCargaService
+CARPETA | Negocio\XM.RAG.XMGestorArchivos\Service References\ServicioExportacionService
+CARPETA | Referencias
+CARPETA | Referencias\Enterprise Library
+CARPETA | Referencias\LinqToMID
+CARPETA | Referencias\OracleProvider
+CARPETA | Referencias\Telerik
+CARPETA | Referencias\Util
+CARPETA | Referencias\Worflows
+CARPETA | Servicios
+CARPETA | Servicios\XM.RAG.ContratosServicios
+CARPETA | Servicios\XM.RAG.ContratosServicios\Administracion
+CARPETA | Servicios\XM.RAG.ContratosServicios\General
+CARPETA | Servicios\XM.RAG.ContratosServicios\IntegracionMID
+CARPETA | Servicios\XM.RAG.ContratosServicios\IntegracionPDN
+CARPETA | Servicios\XM.RAG.ContratosServicios\MaquinaEstados
+CARPETA | Servicios\XM.RAG.ContratosServicios\Properties
+CARPETA | Servicios\XM.RAG.ContratosServicios\RealizacionSolicitudes
+CARPETA | Servicios\XM.RAG.ContratosServicios\RegFro
+CARPETA | Servicios\XM.RAG.ContratosServicios\RegistroSucesos
+CARPETA | Servicios\XM.RAG.ContratosServicios\RevisionSolicitudes
+CARPETA | Servicios\XM.RAG.Servicios
+CARPETA | Servicios\XM.RAG.Servicios\Configuracion
+CARPETA | Servicios\XM.RAG.Servicios\LogTecnico
+CARPETA | Servicios\XM.RAG.Servicios\Properties
+CARPETA | Servicios\XM.RAG.Servicios\Properties\DataSources
+CARPETA | Soporte
+CARPETA | Soporte\XM.RAG.Servicios.Framework
+CARPETA | Soporte\XM.RAG.Servicios.Framework\Comunicacion
+CARPETA | Soporte\XM.RAG.Servicios.Framework\Enumeraciones
+CARPETA | Soporte\XM.RAG.Servicios.Framework\Excepciones
+CARPETA | Soporte\XM.RAG.Servicios.Framework\Helper
+CARPETA | Soporte\XM.RAG.Servicios.Framework\Integracion
+CARPETA | Soporte\XM.RAG.Servicios.Framework\Logging
+CARPETA | Soporte\XM.RAG.Servicios.Framework\Properties
+CARPETA | Soporte\XM.RAG.Servicios.Framework\Utilidades
+CARPETA | Soporte\XM.RAG.Servicios.Mensajes
+CARPETA | Soporte\XM.RAG.Servicios.Mensajes\Properties
+CARPETA | XM.RAG.EntidadesOracle
+CARPETA | XM.RAG.EntidadesOracle\Agente
+CARPETA | XM.RAG.EntidadesOracle\Contacto
+CARPETA | XM.RAG.EntidadesOracle\Empresa
+CARPETA | XM.RAG.EntidadesOracle\Facturacion
+CARPETA | XM.RAG.EntidadesOracle\Persona
+CARPETA | XM.RAG.EntidadesOracle\Properties
