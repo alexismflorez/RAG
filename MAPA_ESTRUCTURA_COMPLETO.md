@@ -1,7 +1,7 @@
 # 🗂️ MAPA COMPLETO DE ESTRUCTURA
 ## XM.RAG y XM.RAG.Servicios
 
-**Fecha:** 8 de Febrero, 2026  
+**Fecha:** Febrero, 2026  
 **Alcance:** Descripción exhaustiva de carpetas y archivos sin omisiones  
 
 ---
@@ -1173,6 +1173,7 @@ c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\
 
 **FIN DEL MAPA COMPLETO**
 
-*Documento generado: 8 de Febrero, 2026*  
+*Documento generado: Febrero, 2026*  
 *Detalle exhaustivo sin omisiones*
+
 
