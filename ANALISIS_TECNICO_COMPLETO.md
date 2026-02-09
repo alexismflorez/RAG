@@ -20,7 +20,7 @@
 
 ### 2.1 Proyecto: XM.RAG
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG\XM.RAG.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG\XM.RAG\XM.RAG.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -92,7 +92,7 @@
 
 ### 2.2 Proyecto: XM.RAG.Framework
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG.Framework\XM.RAG.Framework.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG\XM.RAG.Framework\XM.RAG.Framework.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -118,7 +118,7 @@
 
 ### 2.3 Proyecto: XM.RAG.TimerJobs
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG.TimerJobs\XM.RAG.TimerJobs.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG\XM.RAG.TimerJobs\XM.RAG.TimerJobs.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -142,7 +142,7 @@
 
 ### 2.4 Proyecto: Unisys.Controls
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\Unisys.Controls\Unisys.Controls.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG\Unisys.Controls\Unisys.Controls.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -177,7 +177,7 @@
 
 ### 2.5 Proyecto: XM.RAG.SharePointDataAccess
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG.SharePointDataAcces\XM.RAG.SharePointDataAccess.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG\XM.RAG.SharePointDataAcces\XM.RAG.SharePointDataAccess.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -199,7 +199,7 @@
 
 ### 2.6 Proyecto: XM.RAG.Mensajes
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG.Mensajes\XM.RAG.Mensajes.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG\XM.RAG.Mensajes\XM.RAG.Mensajes.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -234,7 +234,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.2.1 Proyecto: XM.RAG.DataAccess
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\AccesoDatos\XM.RAG.DataAccess\XM.RAG.DataAccess.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\AccesoDatos\XM.RAG.DataAccess\XM.RAG.DataAccess.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -259,7 +259,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.2.2 Proyecto: XM.RAG.Oracle
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\AccesoDatos\XM.RAG.Oracle\XM.RAG.Oracle.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\AccesoDatos\XM.RAG.Oracle\XM.RAG.Oracle.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -284,7 +284,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.2.3 Proyecto: XM.RAG.LinQ2Mid
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\AccesoDatos\XM.RAG.LinQ2Mid\XM.RAG.LinQ2Mid.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\AccesoDatos\XM.RAG.LinQ2Mid\XM.RAG.LinQ2Mid.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -307,7 +307,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.2.4 Proyecto: XM.RAG.EntidadesOracle (XM.RAG.EntidadesPDN)
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\XM.RAG.EntidadesOracle\XM.RAG.EntidadesPDN.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\XM.RAG.EntidadesOracle\XM.RAG.EntidadesPDN.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -332,7 +332,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.1 Proyecto: XM.RAG.Entidades
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.Entidades\XM.RAG.Entidades.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.Entidades\XM.RAG.Entidades.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -355,7 +355,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.2 Proyecto: XM.RAG.EntidadesMID
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.EntidadesMID\XM.RAG.EntidadesMID.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.EntidadesMID\XM.RAG.EntidadesMID.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -377,7 +377,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.3 Proyecto: XM.RAG.Administracion
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.Administracion\XM.RAG.Administracion.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.Administracion\XM.RAG.Administracion.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -400,7 +400,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.4 Proyecto: XM.RAG.General
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.General\XM.RAG.General.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.General\XM.RAG.General.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -421,7 +421,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.5 Proyecto: XM.RAG.Reportes
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.Reportes\XM.RAG.Reportes.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.Reportes\XM.RAG.Reportes.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -447,7 +447,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.6 Proyecto: XM.RAG.Actividades
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.Actividades\XM.RAG.Actividades.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.Actividades\XM.RAG.Actividades.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -471,7 +471,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.7 Proyecto: XM.RAG.ConsultasMID
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.ConsultasMID\XM.RAG.ConsultasMID.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.ConsultasMID\XM.RAG.ConsultasMID.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -490,7 +490,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.8 Proyecto: XM.RAG.IntegracionMID
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.IntegracionMID\XM.RAG.IntegracionMID.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.IntegracionMID\XM.RAG.IntegracionMID.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -512,7 +512,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.9 Proyecto: XM.RAG.IntegracionPDN
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.IntegracionPDN\XM.RAG.IntegracionPDN.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.IntegracionPDN\XM.RAG.IntegracionPDN.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -534,7 +534,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.10 Proyecto: XM.RAG.GestorArchivos
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.XMGestorArchivos\XM.RAG.GestorArchivos.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.XMGestorArchivos\XM.RAG.GestorArchivos.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -559,7 +559,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.11 Proyecto: XM.RAG.RegistroSucesos
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.RegistroSucesos\XM.RAG.RegistroSucesos.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.RegistroSucesos\XM.RAG.RegistroSucesos.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -581,7 +581,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.12 Proyecto: XM.RAG.RevisionSolicitudes
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.RevisionSolicitudes\XM.RAG.RevisionSolicitudes.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.RevisionSolicitudes\XM.RAG.RevisionSolicitudes.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -603,7 +603,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.13 Proyecto: XM.RAG.RealizacionSolicitudes
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.RealizacionSolicitudes\XM.RAG.RealizacionSolicitudes.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.RealizacionSolicitudes\XM.RAG.RealizacionSolicitudes.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -626,7 +626,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.3.14 Proyecto: XM.RAG.RegFro
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.RegFro\XM.RAG.RegFro.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Negocio\XM.RAG.RegFro\XM.RAG.RegFro.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -649,7 +649,7 @@ Arquitectura de servicios N-capas que implementa:
 
 #### 3.4.1 Proyecto: XM.RAG.Servicios (WCF Host)
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Servicios\XM.RAG.Servicios\XM.RAG.Servicios.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Servicios\XM.RAG.Servicios\XM.RAG.Servicios.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -692,7 +692,7 @@ El archivo `app.config` del proyecto XM.RAG principal referencia múltiples endp
 
 #### 3.4.2 Proyecto: XM.RAG.ContratosServicios
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Servicios\XM.RAG.ContratosServicios\XM.RAG.ContratosServicios.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Servicios\XM.RAG.ContratosServicios\XM.RAG.ContratosServicios.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -718,7 +718,7 @@ El archivo `app.config` del proyecto XM.RAG principal referencia múltiples endp
 
 #### 3.5.1 Proyecto: XM.RAG.Servicios.Framework
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Soporte\XM.RAG.Servicios.Framework\XM.RAG.Servicios.Framework.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Soporte\XM.RAG.Servicios.Framework\XM.RAG.Servicios.Framework.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -743,7 +743,7 @@ El archivo `app.config` del proyecto XM.RAG principal referencia múltiples endp
 
 #### 3.5.2 Proyecto: XM.RAG.Servicios.Mensajes
 
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Soporte\XM.RAG.Servicios.Mensajes\XM.RAG.Servicios.Mensajes.csproj`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\Soporte\XM.RAG.Servicios.Mensajes\XM.RAG.Servicios.Mensajes.csproj`
 
 | Propiedad | Valor |
 |-----------|-------|
@@ -763,7 +763,7 @@ El archivo `app.config` del proyecto XM.RAG principal referencia múltiples endp
 
 ### 4.1 Configuración de XM.RAG Principal
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG\app.config`
+**Ubicación:** `\RAG\FUENTES\XM.RAG\XM.RAG\app.config`
 
 **Secciones configuradas:**
 - **loggingConfiguration** (Enterprise Library 5.0)
@@ -783,7 +783,7 @@ El archivo `app.config` del proyecto XM.RAG principal referencia múltiples endp
 
 ### 4.2 Configuración de XM.RAG.Servicios
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Servicios\XM.RAG.Servicios\Configuracion\entlib.config`
+**Ubicación:** `\RAG\FUENTES\XM.RAG.Servicios\Servicios\XM.RAG.Servicios\Configuracion\entlib.config`
 
 **Secciones configuradas:**
 - **loggingConfiguration**
@@ -989,7 +989,7 @@ Grupos de controles para:
 ### 5.7 Feature SharePoint
 
 **Feature ID:** RAG
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG\Features\RAG\`
+**Ubicación:** `\RAG\FUENTES\XM.RAG\XM.RAG\Features\RAG\`
 **Archivo:** RAG.EventReceiver.cs
 
 **Event Receiver:**
@@ -1310,4 +1310,5 @@ Proyectos con strong naming:
 
 **FIN DEL ANÁLISIS TÉCNICO**  
 *Documento generado: 8 de Febrero, 2026*
+
 
