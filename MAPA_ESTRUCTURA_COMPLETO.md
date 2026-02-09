@@ -19,7 +19,7 @@
 ## Raíz del Proyecto XM.RAG
 
 ```
-c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\
+c:\RAG\FUENTES\XM.RAG\
 │
 ├── XM.RAG.sln                          [Solution File]
 ├── Settings.StyleCop                   [Code Analysis Config]
@@ -475,7 +475,7 @@ c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\
 ## Raíz del Proyecto XM.RAG.Servicios
 
 ```
-c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\
+c:\RAG\FUENTES\XM.RAG.Servicios\
 │
 ├── XM.RAG.Servicios.sln
 ├── Settings.StyleCop
@@ -1175,5 +1175,6 @@ c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\
 
 *Documento generado: Febrero, 2026*  
 *Detalle exhaustivo sin omisiones*
+
 
 
