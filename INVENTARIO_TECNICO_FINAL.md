@@ -57,7 +57,7 @@ Sistema integral de gestión de registros de agentes y empresas en contexto regu
 
 **Tipo:** SharePoint Project + Class Libraries  
 **Framework:** .NET 3.5  
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\`
+**Ruta:** `\RAG\FUENTES\XM.RAG\`
 
 #### Proyectos Incluidos:
 
@@ -77,7 +77,7 @@ Sistema integral de gestión de registros de agentes y empresas en contexto regu
 
 **Tipo:** Arquitectura multicapa (N-Tier)  
 **Framework:** .NET 4.0 (mayoría); 4.0.1 (Actividades)  
-**Ruta:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\`
+**Ruta:** `\RAG\FUENTES\XM.RAG.Servicios\`
 
 #### Estructura por Capas:
 
@@ -217,7 +217,7 @@ FUENTES/
 
 ### 4.1 PROYECTO: XM.RAG (Principal SharePoint)
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG\`  
+**Ubicación:** `\RAG\FUENTES\XM.RAG\XM.RAG\`  
 **Archivo csproj:** `XM.RAG.csproj` (4451 líneas)
 
 #### Propiedades del Proyecto
@@ -322,7 +322,7 @@ XM.RAG/
 
 ### 4.2 PROYECTO: XM.RAG.Framework
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG.Framework\`
+**Ubicación:** `\RAG\FUENTES\XM.RAG\XM.RAG.Framework\`
 
 #### Propiedades
 ```
@@ -413,7 +413,7 @@ XM.RAG.Framework/
 
 ### 4.3 PROYECTO: XM.RAG.TimerJobs
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG.TimerJobs\`  
+**Ubicación:** `\RAG\FUENTES\XM.RAG\XM.RAG.TimerJobs\`  
 **Especificidad:** Tareas programadas de SharePoint
 
 #### Propiedades
@@ -437,7 +437,7 @@ AssemblyName:    XM.RAG.TimerJobs
 
 ### 4.4 PROYECTO: XM.RAG.Mensajes
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG.Mensajes\`
+**Ubicación:** `\RAG\FUENTES\XM.RAG\XM.RAG.Mensajes\`
 
 #### Propiedades
 ```
@@ -464,7 +464,7 @@ XM.RAG.Mensajes/
 
 ### 4.5 PROYECTO: XM.RAG.SharePointDataAccess
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG.SharePointDataAcces\`
+**Ubicación:** `\RAG\FUENTES\XM.RAG\XM.RAG.SharePointDataAcces\`
 
 #### Contenido
 
@@ -501,7 +501,7 @@ SharePointDataAccess/
 
 ### 4.6 PROYECTO: Unisys.Controls
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\Unisys.Controls\`
+**Ubicación:** `\RAG\FUENTES\XM.RAG\Unisys.Controls\`
 
 #### Propiedades
 ```
@@ -850,7 +850,7 @@ XM.RAG.Servicios (WCF Host)
 
 ### 7.1 Archivos de Configuración: XM.RAG Principal
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG\XM.RAG\app.config`
+**Ubicación:** `\RAG\FUENTES\XM.RAG\XM.RAG\app.config`
 
 #### Secciones Principales
 
@@ -978,7 +978,7 @@ XM.RAG.Servicios (WCF Host)
 
 ### 7.2 Configuración: XM.RAG.Servicios
 
-**Ubicación:** `c:\RAG\RAGV2\RAG\FUENTES\XM.RAG.Servicios\Servicios\XM.RAG.Servicios\web.config`
+**Ubicación:** `\RAG\FUENTES\XM.RAG.Servicios\Servicios\XM.RAG.Servicios\web.config`
 
 **Incluye:**
 - app.config (servicios)
@@ -1815,3 +1815,4 @@ Web service endpoint configuration
 **Confidencialidad:** Técnico (Uso Interno)
 
 ---
+
